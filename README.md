@@ -36,8 +36,6 @@ Sends an ESP-NOW packet with the type and version inside the ie set to 0x12 and 
 
 **combined.py**  
 Sends an ESP-NOW packet with all above mentioned fields set to 0xFF.  
-
-
-
-**invalid-length.py**
+  
+**invalid-length.py**  
 Packets with a length smaller than the minimum length (5) will result in the message buffer being dumped into the receive callback.

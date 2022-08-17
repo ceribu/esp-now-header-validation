@@ -1,4 +1,4 @@
-# ESP-NOW Invalid Headers
+# ESP-NOW Header Validation
 
 The tools in this repository can be used to show how frame headers are validated by esp-now. 
 
